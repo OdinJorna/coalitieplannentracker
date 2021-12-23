@@ -1,0 +1,19 @@
+created: 20211220154338561
+modified: 20211221110404580
+tags: Onderdeel [[1. Democratische rechtsorde]]
+title: Een betere toekomst voor het hele Koninkrijk
+type: text/vnd.tiddlywiki
+
+//In het Koninkrijk delen we een verleden én een toekomst. Een toekomst die we samen vormgeven. Na
+tien jaar economische stagnatie en de klappen van een orkaan en een pandemie wil Nederland de
+drie Caribische landen ondersteunen bij het inslaan van een pad naar duurzame groei. We doen dat
+zoals bedoeld in het Statuut: op basis van gelijkwaardigheid, wederkerigheid en aan de hand van een
+eerlijke verkenning over wensen tot eventuele aanpassing van het Statuut. In Caribisch Nederland
+blijven we ons inspannen om Bonaire, Saba en Sint Eustatius een gelijkwaardig deel van Nederland te
+laten zijn.//
+
+<$list filter="[tag{!!title}tag[Paragraaf]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-paragraaf-title">>
+
+</$list>

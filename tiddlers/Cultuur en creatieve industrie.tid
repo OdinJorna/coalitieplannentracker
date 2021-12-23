@@ -1,0 +1,12 @@
+created: 20211221110917466
+modified: 20211221144100520
+tags: [[5. Welvarend land]] Onderdeel
+title: Cultuur en creatieve industrie
+type: text/vnd.tiddlywiki
+
+//Cultuur is van wezenlijk belang voor onze samenleving en een investering in onze maatschappij: de
+verbindende, inspirerende en prikkelende kracht van kunst en cultuur brengt mensen bij elkaar
+brengt, daagt uit en biedt nieuwe perspectieven. Corona toonde het innovatie vermogen van de
+cultuursector, maar ook haar kwetsbaarheid.//
+
+<<list-links "[all[tiddlers]tag{!!title}sort[created]]">>

@@ -1,0 +1,25 @@
+color: #c7dfff
+created: 20211221091916165
+icon: $:/core/images/home-button
+modified: 20211222071446097
+tags: Hoofdstuk
+title: 3. Veiligheid en een sterke samenleving
+type: text/vnd.tiddlywiki
+
+//Om in vrijheid te kunnen leven, is veiligheid een belangrijke voorwaarde. Voor effectief
+veiligheidsbeleid vormen preventie en repressie twee kanten van dezelfde medaille. De snelle
+verharding van de georganiseerde en ondermijnende criminaliteit tast in toenemende mate de
+rechtsstaat aan en vraagt de komende jaren om een stevige en gerichte aanpak. Voor het versterken
+van veiligheid wordt oplopend structureel €1 miljard euro gereserveerd voor verschillende doelen, o.a.
+het tegengaan van ondermijning en het versterken van de politieorganisatie, de preventie-aanpak, de
+inlichtingendiensten en de gehele justitiële keten//
+
+<$list filter="[tag{!!title}tag[Paragraaf]sort[created]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-paragraaf-title">>
+
+</$list>
+
+
+
+

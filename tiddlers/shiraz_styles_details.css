@@ -1,0 +1,23 @@
+/* Styles for summary cursor
+url: https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/
+*/
+
+summary {
+  cursor: pointer;
+}
+
+summary > * {
+  display: inline;
+}
+
+.details-title { 
+font-size: 1.5em;
+} 
+
+.details-paragraaf-title {
+font-size: 1.1em;
+} 
+
+.details-tab {
+margin-left: 1em;
+}

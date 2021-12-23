@@ -1,0 +1,55 @@
+.c-card {
+   display: flex;
+   border-radius: 6px;
+   box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 2%);
+   -webkit-transition-duration: 0.3s;
+   -webkit-transition-property: transform;
+}
+
+.c-card:hover {
+   -webkit-transform: scale(1.025);
+   -webkit-transition-duration: 0.3s;
+   -webkit-transition-property: transform;
+}
+
+.c-card img{
+  width: 100px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 6px 0px 0px 6px;
+}
+
+.c-card-content {
+   display: flex;
+   flex-direction: column;
+   margin: 1rem;
+}
+
+.c-card-title {
+margin-bottom: 0.5rem;
+} 
+
+.c-card-link {
+   text-decoration: none;
+}
+
+.c-card-date {
+   font-size: 0.75em;
+   color: gray;
+   margin-top: -0.25em;
+   display: flex;
+}
+
+.c-card-link {
+   margin-left: auto;
+}
+
+.c-card-link svg {
+   height: 1.5em;
+   widht: auto;
+   fill: gray;
+}
+
+.c-card-link svg:hover {
+   fill: #5778d8
+}

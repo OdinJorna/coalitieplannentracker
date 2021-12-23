@@ -1,0 +1,8 @@
+caption: Macro voor lijst paragraaf
+created: 20211220161323391
+modified: 20211220161401446
+tags: $:/tags/TextEditor/Snippet
+title: macro/Macro voor lijst paragraaf
+type: text/vnd.tiddlywiki
+
+<<list-links "[all[tiddlers]tag{!!title}sort[created]]">>

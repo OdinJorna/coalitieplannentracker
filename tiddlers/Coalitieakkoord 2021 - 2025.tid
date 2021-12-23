@@ -1,0 +1,10 @@
+created: 20211219215220918
+modified: 20211221212234469
+title: Coalitieakkoord 2021 - 2025
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Hoofdstuk]]">
+
+<<details label:"<$link/>" src:"{{}}" labelClass:"details-title" srcClass="details-tab">>
+
+</$list>

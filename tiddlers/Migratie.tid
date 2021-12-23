@@ -1,0 +1,24 @@
+created: 20211221111055496
+modified: 20211221152505205
+tags: [[7. Internationaal]] Onderdeel
+title: Migratie
+type: text/vnd.tiddlywiki
+
+//Nederland staat voor een rechtvaardig, humaan en effectief asiel- en migratiebeleid. Wij willen
+migratie zoveel mogelijk in goede banen leiden en meer grip krijgen op migratie. Op wie er binnen
+komt, wie er mag blijven of terug moet. Het migratiebeleid stoelt op twee pijlers, die naast elkaar
+staan en gelijktijdig en in samenhang uitgevoerd worden: het verbeteren en versterken van legale
+migratie en parallel het beperken van irreguliere migratie, bestrijden van overlast en misbruik en
+bevorderen van terugkeer bij onrechtmatig verblijf. Ons doel is om migratie zoveel mogelijk
+gestructureerd te laten verlopen, ongewenste migratiestromen zoveel mogelijk te beperken en het
+draagvlak voor migratie in onze samenleving te behouden en te versterken. Dit conform
+internationale verdragen en EU-regelgeving. Voor de komende jaren vergt dit (financiële) steun voor
+opvang in de regio en effectievere en slimmere samenwerking binnen de Europese Unie. Maar het
+vraagt ook om het eigen huis op orde te brengen met snellere en zorgvuldiger asielprocedures,
+stabielere uitvoering, het tegengaan van overlast, en sneller starten met integratie of terugkeer.//
+
+<$list filter="[tag{!!title}tag[Paragraaf]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-paragraaf-title">>
+
+</$list>

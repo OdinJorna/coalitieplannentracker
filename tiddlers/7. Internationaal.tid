@@ -1,0 +1,13 @@
+color: #c7dfff
+created: 20211221110758398
+icon: $:/core/images/home-button
+modified: 20211222071427223
+tags: Hoofdstuk
+title: 7. Internationaal
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag{!!title}tag[Onderdeel]sort[created]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-title" srcClass="details-tab">>
+
+</$list>

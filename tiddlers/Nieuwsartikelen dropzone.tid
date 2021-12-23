@@ -1,0 +1,14 @@
+caption: Dropzone
+created: 20211219205431920
+modified: 20211223122846907
+title: Nieuwsartikelen dropzone
+type: text/vnd.tiddlywiki
+
+<$dropzone 
+  deserializer="application/json"
+  filesOnly=no 
+	importTitle="title">
+<div class="bibtex-dropzone" tabindex=1>
+Drag 'n Drop de json hier
+</div>
+</$dropzone>

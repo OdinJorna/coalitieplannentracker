@@ -1,0 +1,12 @@
+caption: Macro details voor paragraaf
+created: 20211221092010023
+modified: 20211221150159223
+tags: $:/tags/TextEditor/Snippet
+title: textsnipper/detials paragraaf
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag{!!title}tag[Paragraaf]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-paragraaf-title">>
+
+</$list>

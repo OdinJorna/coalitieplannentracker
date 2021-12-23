@@ -1,0 +1,24 @@
+created: 20211221111014227
+modified: 20211221150253646
+tags: [[6. Gezondheid]] Onderdeel
+title: Medisch-ethische vraagstukken
+type: text/vnd.tiddlywiki
+
+//Bij medisch ethische vraagstukken spelen meerdere waarden een rol, zoals autonomie, de
+beschermwaardigheid van het leven en wetenschappelijke vooruitgang. Zij vergen een zorgvuldig en
+respectvol debat, waarbij gebruik gemaakt wordt van maatschappelijke dialoog, adviezen van de
+Gezondheidsraad, ethische reflecties en (wets)evaluaties.//
+
+//Integrale benadering voor zwangerschap, abortuszorg en geboorte//<br>
+//Bij de zorg rondom zwangerschap en geboorte zijn gezondheid van vrouw en kind, autonomie van de
+vrouw en passende zorg en voorlichting leidend. De komende jaren verbeteren we de integrale
+ondersteuning bij zwangerschappen, een goede start voor kinderen en het voorkomen van
+onbedoelde en ongewenste zwangerschappen. We garanderen toegankelijke abortuszorg en
+spannen ons vanwege de impact die een abortus kan hebben in om de (na)zorg te verbeteren en het
+aantal (herhaal)abortussen te verminderen.//
+
+<$list filter="[tag{!!title}tag[Paragraaf]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-paragraaf-title">>
+
+</$list>

@@ -1,0 +1,11 @@
+created: 20211221151901054
+modified: 20211221151932949
+tags: [[7. Internationaal]] Paragraaf [[Buitenlands beleid]]
+title: Defensie
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag{!!title}tag[Paragraaf]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-paragraaf-title">>
+
+</$list>

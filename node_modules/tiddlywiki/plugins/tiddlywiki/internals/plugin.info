@@ -1,6 +1,0 @@
-{
-	"title": "$:/plugins/tiddlywiki/internals",
-	"name": "Internals",
-	"description": "Tools for exploring the internals of TiddlyWiki",
-	"list": "readme"
-}

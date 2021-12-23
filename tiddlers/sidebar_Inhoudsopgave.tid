@@ -1,0 +1,21 @@
+caption: Inhoudsopgave
+created: 20211221203542876
+list-before: $:/core/ui/SideBar/Open
+modified: 20211222161909747
+tags: $:/tags/SideBar excluded
+title: sidebar/Inhoudsopgave
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Hoofdstuk]]">
+
+<details>
+  <summary class="details-paragraaf-title"><$link/></summary>
+  <p>
+  <$list filter="[tag{!!title}tag[Onderdeel]]">
+  <li><$link/></li>
+  </$list>
+  </p>
+</details>
+
+
+</$list>

@@ -1,0 +1,21 @@
+created: 20211221111030803
+modified: 20211221151210447
+tags: [[7. Internationaal]] Onderdeel
+title: Buitenlands beleid
+type: text/vnd.tiddlywiki
+
+//We leven in een wereld met veranderende machtsverhoudingen en instabiliteit rond Europa. Door de
+opstelling van landen als China en Rusland en de sterkere focus van de VS op Azië moeten we onze
+vrijheid, veiligheid en welvaart actiever beschermen. We staan voor grote mondiale uitdagingen,
+zoals klimaatverandering, pandemiebestrijding, migratie, economisch herstel en ongelijkheid. Ook de
+internationale rechtsorde, mensenrechten en kwetsbare groepen staan meer onder druk. Dit alles
+vraagt een voortrekkersrol van het Koninkrijk der Nederlanden en een sterke en slagvaardige EU.
+Europa brengt Nederland vrede, veiligheid en welvaart. Naast een economische gemeenschap is de
+EU een waardengemeenschap. De EU moet een speler zijn in plaats van een speelveld voor andere
+grootmachten.//
+
+<$list filter="[tag{!!title}tag[Paragraaf]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-paragraaf-title">>
+
+</$list>

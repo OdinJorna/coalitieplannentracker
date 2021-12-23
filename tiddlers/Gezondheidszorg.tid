@@ -1,0 +1,26 @@
+created: 20211221110948455
+modified: 20211221145133768
+tags: [[6. Gezondheid]] Onderdeel
+title: Gezondheidszorg
+type: text/vnd.tiddlywiki
+
+//Gezondheid is voor iedereen van groot belang. Dat realiseren we ons des te meer door de
+coronacrisis. Iedereen moet zeker zijn van passende en betaalbare zorg: jong of oud, nu en in de
+toekomst. Dat vraagt om samenwerking, aandacht voor de patiënt en ruimte voor iedereen die in de
+zorg werkt. Een gezonde samenleving vraagt ook om het nemen van verantwoordelijkheid voor
+onszelf en voor elkaar. Ons zorgstelsel is gebaseerd op solidariteit, omdat we willen dat iedereen die
+zorg nodig heeft, daar toegang tot heeft. Onze zorg is van hoog niveau en het stelsel staat niet ter
+discussie, maar verbeteringen in het stelsel zijn nodig. Mensen maken zich zorgen, of de zorg van
+morgen nog wel geleverd kan worden en of deze betaalbaar blijft. Daar moeten we werk van maken.
+Daarbij moeten we ook breder kijken naar gezondheid: onderwijs, sport, huisvesting,
+bestaanszekerheid en leefomgeving dragen allemaal bij. Kwetsbare mensen leven zeven jaar korter
+en vijftien jaar langer in minder goede gezondheid en kinderen die ongezond opgroeien staan veelal
+op een achterstand. Dat vinden we onacceptabel. We willen de zorg voor iedereen betaalbaar,
+beschikbaar en bereikbaar houden. Dat vraagt van de politiek goede en stevige keuzes en
+hervormingen, die tijd kosten en waarbij passende zorg de norm is.//
+
+<$list filter="[tag{!!title}tag[Paragraaf]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-paragraaf-title">>
+
+</$list>

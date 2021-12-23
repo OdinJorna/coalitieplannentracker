@@ -1,0 +1,22 @@
+created: 20211219201342575
+modified: 20211222071122016
+tags: $:/tags/ViewTemplate
+title: Nieuwsartikelen template
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[current]has:field[parent]]">
+
+<a class="c-card-link" href={{!!url}} target="_blank">
+<div class="c-card">
+   <img src={{!!image}}/>
+   <div class="c-card-content">
+   <div class="c-card-date">
+   <$view field="date" format="date" template="DD-MM-YYYY"/> - ''{{!!source}}'' <$link to={{!!title}} tooltip="Ga naar de tiddler van dit artikel" class="c-card-link">{{$:/core/images/info-button}}</$link>
+   </div>
+   <span class="c-card-title">''{{!!title}}''</span>
+   {{!!description}}
+   </div>
+</div>
+</a>
+
+</$list>

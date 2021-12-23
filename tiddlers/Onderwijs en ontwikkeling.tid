@@ -1,0 +1,22 @@
+created: 20211221093946400
+modified: 20211221110335372
+tags: Onderdeel [[4. Bestaanszekerheid en kansengelijkheid]]
+title: Onderwijs en ontwikkeling
+type: text/vnd.tiddlywiki
+
+//Iedereen in Nederland verdient een goed bestaan en moet mee kunnen doen. Dat begint bij het
+bieden van dezelfde kansen aan alle kinderen, jongeren en studenten om zich te ontwikkelen en te
+ontplooien. Daarom willen we de onderwijskwaliteit versterken om de basis op orde te krijgen, zodat
+elk kind leert lezen, schrijven en rekenen en goed wordt onderwezen in burgerschap. Om dat te
+bereiken investeren we ook in voldoende en goede leraren en schoolleiders. We vergroten de
+kansengelijkheid door te investeren in kinderopvang, voor- en vroegschoolse educatie en de rijke
+schooldag. We versterken het beroepsonderwijs en het wetenschappelijk onderwijs. En we
+waarborgen sociale veiligheid en gelijke behandeling.//
+
+<$list filter="[tag[Onderwijs en ontwikkeling]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-paragraaf-title">>
+
+</$list>
+
+

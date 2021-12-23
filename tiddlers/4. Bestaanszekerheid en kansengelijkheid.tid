@@ -1,0 +1,13 @@
+color: #c7dfff
+created: 20211221093548162
+icon: $:/core/images/home-button
+modified: 20211222071349006
+tags: Hoofdstuk
+title: 4. Bestaanszekerheid en kansengelijkheid
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag{!!title}tag[Onderdeel]sort[created]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-title" srcClass="details-tab">>
+
+</$list>

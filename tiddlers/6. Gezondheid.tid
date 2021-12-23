@@ -1,0 +1,13 @@
+color: #c7dfff
+created: 20211221110743142
+icon: $:/core/images/home-button
+modified: 20211222071417903
+tags: Hoofdstuk
+title: 6. Gezondheid
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag{!!title}tag[Onderdeel]sort[created]]">
+
+<<details label:"<$link/>" src:"{{ }}" labelClass:"details-title" srcClass="details-tab">>
+
+</$list>

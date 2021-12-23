@@ -1,0 +1,13 @@
+created: 20211220160606994
+modified: 20211220160953589
+tags: $:/tags/ViewTemplate
+title: viewTemplate/lijst van updates onder coalitiepunt
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[current]tag[Coalitieplan]]">
+
+<$list filter="[parent{!!title}!sort[date]]">
+{{||Nieuwsartikelen template}}
+</$list>
+
+</$list>

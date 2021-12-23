@@ -1,0 +1,11 @@
+{
+    "$:/core/ui/SideBar/Open": "$:/tags/SideBar",
+    "$:/core/ui/SideBar/Recent": "$:/tags/SideBar",
+    "$:/core/ui/SideBar/Tools": "$:/tags/SideBar",
+    "$:/core/ui/SideBar/More": "$:/tags/SideBar",
+    "Nieuwsartikelen dropzone": "$:/tags/SideBar",
+    "$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/more-tiddler-actions": "show",
+    "$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/edit": "show",
+    "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/control-panel": "show",
+    "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/save-wiki": "show"
+}

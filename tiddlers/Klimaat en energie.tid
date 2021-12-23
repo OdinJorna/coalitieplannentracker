@@ -1,0 +1,32 @@
+created: 20211220173125938
+modified: 20211220184601188
+tags: Onderdeel [[2. Duurzaam land]]
+title: Klimaat en energie
+type: text/vnd.tiddlywiki
+
+//Klimaatverandering is dé uitdaging voor onze generatie. Goed klimaatbeleid biedt kansen om een
+duurzame en sterke economie op te bouwen en nieuwe banen te creëren. We maken Nederland klaar
+voor de toekomst – klimaatneutraal, fossielvrij en circulair – met een schone energievoorziening en
+groene industriepolitiek. Nederland is een welvarend land dat in de transitie naar een groene
+economie tot de kopgroep in Europa wil behoren. Zoals onze voorouders gezamenlijk binnenwateren
+inpolderden en Deltawerken bouwden, zo slaan wij nu de handen ineen om te bouwen aan een
+groene toekomst. Wij willen ons maximaal inspannen om ons land en onze planeet leefbaar en
+bewoonbaar te houden. Daarom ook streven we de klimaatdoelstelling van maximaal 1,5 graad van
+het Klimaatakkoord van Parijs na en willen we biodiversiteit versterken. Dit kabinet wil huishoudens
+en gemeenschappen, bedrijven en coöperaties en dorpen en steden in staat stellen deze duurzame
+omslag te maken. We zorgen ervoor dat iedereen mee kan doen, de vervuiler betaalt en dat niemand
+achterblijft. Zo doen we recht aan de aarde, aan volgende generaties en aan elkaar//
+
+<<list-links "[all[tiddlers]tag{!!title}tag[Coalitieplan]sort[created]]">>
+
+
+<<details label:"[[Industrie en bedrijfsleven]]" src:"{{Industrie en bedrijfsleven}}" labelClass:"details-paragraaf-title">>
+
+<<details label:"[[Energiemix]]" src:"{{Energiemix}}" labelClass:"details-paragraaf-title">>
+
+<<details label:"[[Gebouwde omgeving]]" src:"{{Gebouwde omgeving}}" labelClass:"details-paragraaf-title">>
+
+<<details label:"[[Mobiliteit, luchtvaart en scheepvaart]]" src:"{{Mobiliteit, luchtvaart en scheepvaart}}" labelClass:"details-paragraaf-title">>
+ 
+<<details label:"[[Klimaatadaptatie]]" src:"{{Klimaatadaptatie}}" labelClass:"details-paragraaf-title">>
+
