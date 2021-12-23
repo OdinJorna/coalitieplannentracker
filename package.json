@@ -1,7 +1,7 @@
 {
   "name": "coalitieplannentracker",
   "version": "1.0.0",
-  "description": "Example of using Github actions to build and publish a TiddlyWiki",
+  "description": "Wat is de voortgang van de plannen van het kabinet Rutte-IV",
   "main": "index.js",
   "scripts": {
     "build": "node ./node_modules/tiddlywiki/tiddlywiki.js . --build index"
