@@ -1,0 +1,21 @@
+{
+  "name": "coalitieplannentracker",
+  "version": "1.0.0",
+  "description": "Example of using Github actions to build and publish a TiddlyWiki",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./node_modules/tiddlywiki/tiddlywiki.js . --build index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdinJorna/coalitieplannentracker.git"
+  },
+  "keywords": [
+    "TW5"
+  ],
+  "author": "Odin",
+  "homepage": "https://github.com/OdinJorna/coalitieplannentracker",
+  "dependencies": {
+    "tiddlywiki": "^5.2.1"
+  }
+}
