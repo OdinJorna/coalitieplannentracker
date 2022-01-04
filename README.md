@@ -1,12 +1,14 @@
-# coalitieplannentracker
+# Coalitieplannentracker
 
-Website om de voortgang van coalitieplannen bij te houden. Onder elk punt kunnen updates worden toegevoegd, zodat er een tijdlijn ontstaat die inzichtelijk maakt hoe het plan naar beleid is vormgegeven.
+Website om de voortgang van coalitieplannen bij te houden. Onder elk punt kunnen updates worden toegevoegd, zodat er een tijdlijn ontstaat die inzichtelijk maakt hoe het plan naar beleid is vormgegeven. 
 
 [Klik hier om naar de website te gaan!](https://odinjorna.github.io/coalitieplannentracker/)
 
 # Toevoegen van updates
 
-Heb je een artikel/rapport/update over een coalitieplan die je wilt toevoegen? Dat kan! Elke update is een file onder de folder 'tiddlers/Updates'. Maak een PR aan voor een nieuwe file met de volgende fields:
+Heb je een artikel/rapport/update over een coalitieplan die je wilt toevoegen? Dat kan! Ik nodig iedere enthousiasteling uit om mee te helpen met het up-to-date houden van de website.
+
+Elke update is een file onder de folder 'tiddlers/Updates'. Maak een PR aan voor een nieuwe file met het volgende als inhoud:
 
 ```
 title: "vul hier de titel in van het artikel/rapport/etc."
