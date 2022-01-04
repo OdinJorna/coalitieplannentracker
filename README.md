@@ -19,7 +19,7 @@ date: "datum van het plaatsen van het artikel in het formaat: 'jaar maand dag' i
 parent: "Volledige naam van het coalitieplan waar je link bij hoort"
 ```
 
-Gebruik de update toevoeger hulp website om de data te genereren, zodat het gemakkelijker wordt om een PR aan te maken.
+Gebruik de [update toevoeger hulp website](https://odinjorna.github.io/update-toevoeger/) om de data te genereren, zodat het gemakkelijker wordt om een PR aan te maken.
 
 # Gemaakt met TiddlyWiki
 
