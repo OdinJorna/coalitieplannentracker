@@ -2,7 +2,7 @@
 
 Website om de voortgang van coalitieplannen bij te houden. Onder elk punt kunnen updates worden toegevoegd, zodat er een tijdlijn ontstaat die inzichtelijk maakt hoe het plan naar beleid is vormgegeven. 
 
-[Klik hier om naar de website te gaan!](https://odinjorna.github.io/coalitieplannentracker/)
+[Klik hier om naar de website te gaan!](http://coalitieplannentracker.nl/)
 
 # Toevoegen van updates
 
