@@ -676,6 +676,8 @@ Error message and password prompt
 
 <li>shiraz/styles/details</li>
 
+<li>sidebar/hulp</li>
+
 <li>sidebar/Inhoudsopgave</li>
 
 <li>Slecht functionerende schoolbesturen pakken we hard aan, in lijn met de wet uitbreiding bestuurlijk instrumentarium onderwijs.</li>
@@ -1619,6 +1621,8 @@ Error message and password prompt
 {"title":"shiraz/macros/details","created":"20181101185833098","modified":"20211220143920797","tags":"$:/tags/Macro","type":"text/vnd.tiddlywiki","text":"\\define details(label:\"\", src:\"source\", status:\"\", labelClass:\"\", srcClass:\"\")\n\u003C$vars  source = {{{ [\u003C__src__>get[text]else\u003C__src__>] }}} >\n\u003Cdetails $status$>\n \u003Csummary class=\"$labelClass$\">$label$\u003C/summary>\n  \u003Cdiv class=\"$srcClass$\">\n\t\n   \u003C\u003Csource>>\n  \u003C/div>\n\u003C/details>\n\u003C/$vars>\n\\end","revision":"0","bag":"default"},
 
 {"title":"shiraz/styles/details","text":"/* Styles for summary cursor\nurl: https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/\n*/\n\nsummary {\n  cursor: pointer;\n}\n\nsummary > * {\n  display: inline;\n}\n\n.details-title { \nfont-size: 1.5em;\n} \n\n.details-paragraaf-title {\nfont-size: 1.1em;\n} \n\n.details-tab {\nmargin-left: 1em;\n}","created":"20210812081549226","modified":"20211221210822294","tags":"$:/tags/Stylesheet","type":"text/css","revision":"0","bag":"default"},
+
+{"title":"sidebar/hulp","caption":"Geïnteresseerd om te helpen?","list-after":"sidebar/Inhoudsopgave","tags":"$:/tags/SideBar excluded","type":"text/vnd.tiddlywiki","text":"Ben je geïnteresseerd om mee te helpen om deze website up-to-date te maken? \n\nVoor de back-end van deze website: https://github.com/OdinJorna/coalitieplannentracker\n\nVoor de update-toevoeg-hulp: https://odinjorna.github.io/update-toevoeger/\n","revision":"0","bag":"default"},
 
 {"title":"sidebar/Inhoudsopgave","caption":"Inhoudsopgave","created":"20211221203542876","list-before":"$:/core/ui/SideBar/Open","modified":"20211222161909747","tags":"$:/tags/SideBar excluded","type":"text/vnd.tiddlywiki","text":"\u003C$list filter=\"[tag[Hoofdstuk]]\">\n\n\u003Cdetails>\n  \u003Csummary class=\"details-paragraaf-title\">\u003C$link/>\u003C/summary>\n  \u003Cp>\n  \u003C$list filter=\"[tag{!!title}tag[Onderdeel]]\">\n  \u003Cli>\u003C$link/>\u003C/li>\n  \u003C/$list>\n  \u003C/p>\n\u003C/details>\n\n\n\u003C/$list>","revision":"0","bag":"default"},
 
